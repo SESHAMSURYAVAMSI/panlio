@@ -3,9 +3,10 @@
 import { motion } from 'framer-motion';
 import { SKILLS, TOOLS } from '@/lib/constants'; // ← ADD THIS
 import { Palette, Users, Layers, Zap } from 'lucide-react';
+import React from 'react';
 
 const Skills = () => {
-  const iconMap: Record<string, JSX.Element> = {
+  const iconMap: Record<string,  React.ReactElement> = {
     '🎨': <Palette />,
     '🔍': <Users />,
     '⚡': <Zap />,
