@@ -15,7 +15,7 @@ export const PERSONAL_INFO = {
   phone: '+91 8147662827',
   location: 'Hyderabad, India',
 //   about: 'Passionate UI/UX designer with 3+ years of experience creating beautiful and functional digital products. I specialize in user-centered design, design systems, and interactive prototypes.',
- about:'Iam a most handsome and Sexiest person in Hyderabad',
+ about:'Hii',
  cvUrl:'/cv/PANKAJ 2026 CV.pdf',
  cvFileName:'PANKAJ 2026 CV'
 }
